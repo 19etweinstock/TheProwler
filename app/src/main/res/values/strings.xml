@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">The Prowler</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="filler">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget eleifend mauris. Pellentesque in dolor efficitur, lacinia lacus fringilla, fringilla risus. Pellentesque scelerisque ipsum massa, in aliquet dui rhoncus id.</string>
+
+    <string name="article_filler">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet varius nunc. Curabitur tempor venenatis consectetur. Duis nunc quam, luctus nec ipsum id, scelerisque aliquet metus. Aenean eget viverra est. Nulla consectetur neque pharetra elit rutrum lobortis. Integer fringilla purus at viverra lobortis. Quisque nec ante ac libero eleifend dignissim. Donec lectus urna, porta vitae consectetur non, facilisis in tortor. Cras ac venenatis diam, ac ornare purus. Maecenas enim urna, eleifend ut efficitur et, congue vel augue. Curabitur velit arcu, semper at luctus ut, vehicula sit amet ipsum. Duis lacus lorem, tincidunt eget lectus sit amet, rhoncus vehicula magna. Vestibulum leo tortor, finibus sed tortor sit amet, hendrerit volutpat risus.
+
+Pellentesque semper tortor ut arcu tincidunt mollis. Suspendisse potenti. Praesent vitae pellentesque dolor. Fusce hendrerit porttitor lectus at laoreet. Nullam a arcu luctus, mattis turpis et, convallis ante. Ut augue libero, lacinia quis fermentum et, rutrum quis turpis. Aliquam vitae pretium nibh. Cras at molestie felis, sed malesuada tortor.
+
+Proin lectus ex, dictum in justo quis, egestas venenatis quam. Aliquam commodo, sapien a dapibus congue, nulla eros mollis lorem, vitae viverra lectus nisi a odio. Pellentesque tortor nulla, consequat sed pulvinar vitae, convallis et dolor. Duis mi libero, vestibulum a tincidunt vitae, dapibus at metus. Nullam tincidunt dolor nibh, ut fermentum ipsum eleifend sed. Nulla vel eros sed arcu vulputate commodo in nec neque. Cras feugiat dapibus erat ut blandit. Sed pharetra lorem gravida felis auctor vehicula. Ut tempor leo nibh, sed rutrum sapien finibus sed. Mauris a turpis at ligula fermentum vulputate. Etiam egestas congue placerat.
+
+Nam lobortis eget enim ut fringilla. Proin nec turpis vitae libero commodo suscipit. Suspendisse pretium risus in euismod vulputate. Vestibulum laoreet elit id aliquet lobortis. Integer bibendum leo id condimentum molestie. Maecenas at finibus enim. Phasellus sit amet vulputate nulla. Morbi cursus dignissim consectetur. Vestibulum ut feugiat urna, at hendrerit ipsum. Nulla egestas massa velit, eu auctor metus vulputate at. Aenean pretium, leo fermentum ullamcorper tincidunt, augue dolor ornare massa, vitae rutrum nisl ipsum ac ligula. Cras sed nulla laoreet, placerat mi quis, posuere metus. Sed interdum ex non semper mollis.
+
+Aliquam dapibus lectus eu nunc porta pellentesque. Curabitur cursus erat neque, vel sodales arcu molestie eget. Maecenas arcu ante, lacinia et cursus vel, aliquet id eros. Fusce quis ante finibus enim luctus mollis. Quisque pharetra nibh turpis, non tincidunt lorem congue at. Ut aliquet eros at mauris finibus, id vehicula tellus consectetur. In viverra diam in lectus tristique, vitae vestibulum libero posuere. Nullam a ullamcorper nulla. Sed erat dolor, hendrerit sit amet odio vel, vehicula faucibus tellus. Sed commodo metus sem. Duis ipsum lorem, laoreet non augue a, commodo porttitor lorem. Aenean sem dui, dictum ac imperdiet in, faucibus at libero. Suspendisse dui erat, porttitor sit amet erat hendrerit, pretium fermentum tellus.</string>
+</resources>
