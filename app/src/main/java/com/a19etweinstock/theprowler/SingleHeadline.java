@@ -15,7 +15,7 @@ import android.widget.TextView;
  * Created by ethan on 7/20/2017.
  */
 
-public class SingleHeadline extends Fragment implements ButtonGetter{
+public class SingleHeadline extends Fragment{
     private View view;
     private String title;
     private String author;
@@ -69,7 +69,6 @@ public class SingleHeadline extends Fragment implements ButtonGetter{
         update();
     }
 
-    @Override
     public Button getButton(){
         return (Button) view.findViewById(R.id.heading_button);
     }

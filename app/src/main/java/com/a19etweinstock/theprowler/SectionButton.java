@@ -15,7 +15,7 @@ import android.widget.Button;
  * Created by ethan on 7/20/2017.
  */
 
-public class SectionButton extends Fragment implements ButtonGetter{
+public class SectionButton extends Fragment {
     private View view;
     private String text;
 
@@ -40,7 +40,6 @@ public class SectionButton extends Fragment implements ButtonGetter{
         updateText();
     }
 
-    @Override
     public Button getButton(){
         return ((Button)view.findViewById(R.id.section_button));
     }
